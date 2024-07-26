@@ -1,0 +1,576 @@
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\Nhom04_Jewelry.dll.config
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\Nhom04_Jewelry.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\Nhom04_Jewelry.pdb
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\csc.exe
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\csc.exe.config
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\csc.rsp
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\csi.exe
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\csi.exe.config
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\csi.rsp
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\Microsoft.Managed.Core.targets
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.AppContext.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Collections.Immutable.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Console.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Globalization.Calendars.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.IO.Compression.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.IO.FileSystem.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Net.Http.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Net.Sockets.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Reflection.Metadata.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.ValueTuple.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Xml.XmlDocument.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Xml.XPath.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\vbc.exe
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\vbc.exe.config
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\vbc.rsp
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\VBCSCompiler.exe
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\VBCSCompiler.exe.config
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\EntityFramework.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\EntityFramework.SqlServer.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.Web.Infrastructure.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Helpers.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Mvc.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Razor.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Webpages.Deployment.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Webpages.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Webpages.Razor.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\EntityFramework.xml
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\EntityFramework.SqlServer.xml
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Razor.xml
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Webpages.xml
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Webpages.Deployment.xml
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Webpages.Razor.xml
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Helpers.xml
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Mvc.xml
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\obj\Debug\Nhom04_Jewelry.csproj.AssemblyReference.cache
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\obj\Debug\Nhom04_Jewelry.csproj.CoreCompileInputs.cache
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\obj\Debug\Nhom04_Jewelry.csproj.CopyComplete
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\obj\Debug\Nhom04_Jewelry.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\obj\Debug\Nhom04_Jewelry.pdb
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\obj\Debug\Nhom04_Jewelry.Migrations.InitialCreate.resources
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\obj\Debug\Nhom04_Jewelry.csproj.GenerateResource.cache
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\obj\Debug\Nhom04_Jewelry.Migrations.AddRequired.resources
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.AspNet.Identity.Core.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.Owin.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.Owin.Security.Cookies.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.Owin.Security.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.Owin.Security.OAuth.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\Newtonsoft.Json.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\Owin.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.AspNet.Identity.Core.xml
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.Owin.xml
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.Owin.Security.xml
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.Owin.Security.Cookies.xml
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.Owin.Security.OAuth.xml
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\Newtonsoft.Json.xml
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\obj\Debug\Nhom04_Jewelry.IdentityMigration.init.resources
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\obj\Debug\Nhom04_Jewelry.IdentityMigration.AddHoTenRow.resources
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\Nhom04_Jewelry.dll.config
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\Nhom04_Jewelry.dll
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\Nhom04_Jewelry.pdb
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\csc.exe
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\csc.exe.config
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\csc.rsp
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\csi.exe
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\csi.exe.config
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\csi.rsp
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\Microsoft.Managed.Core.targets
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.AppContext.dll
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Collections.Immutable.dll
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Console.dll
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Globalization.Calendars.dll
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.IO.Compression.dll
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.IO.FileSystem.dll
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Net.Http.dll
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Net.Sockets.dll
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Reflection.Metadata.dll
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.ValueTuple.dll
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Xml.XmlDocument.dll
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Xml.XPath.dll
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\vbc.exe
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\vbc.exe.config
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\vbc.rsp
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\VBCSCompiler.exe
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\VBCSCompiler.exe.config
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\EntityFramework.dll
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\EntityFramework.SqlServer.dll
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.AspNet.Identity.Core.dll
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.Owin.dll
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.Owin.Security.Cookies.dll
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.Owin.Security.dll
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.Owin.Security.OAuth.dll
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.Web.Infrastructure.dll
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\Newtonsoft.Json.dll
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\Owin.dll
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Helpers.dll
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Mvc.dll
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Razor.dll
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Webpages.Deployment.dll
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Webpages.dll
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Webpages.Razor.dll
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\EntityFramework.xml
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\EntityFramework.SqlServer.xml
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.AspNet.Identity.Core.xml
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.Owin.xml
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.Owin.Security.xml
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.Owin.Security.Cookies.xml
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.Owin.Security.OAuth.xml
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\Newtonsoft.Json.xml
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Razor.xml
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Webpages.xml
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Webpages.Deployment.xml
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Webpages.Razor.xml
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Helpers.xml
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Mvc.xml
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\obj\Debug\Nhom04_Jewelry.csproj.AssemblyReference.cache
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\obj\Debug\Nhom04_Jewelry.IdentityMigration.init.resources
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\obj\Debug\Nhom04_Jewelry.IdentityMigration.AddHoTenRow.resources
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\obj\Debug\Nhom04_Jewelry.Migrations.InitialCreate.resources
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\obj\Debug\Nhom04_Jewelry.Migrations.AddRequired.resources
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\obj\Debug\Nhom04_Jewelry.csproj.GenerateResource.cache
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\obj\Debug\Nhom04_Jewelry.csproj.CoreCompileInputs.cache
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\obj\Debug\Nhom04_Jewelry.csproj.CopyComplete
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\obj\Debug\Nhom04_Jewelry.dll
+C:\HUIT\HK7\LapTrinhWeb\DP2\Nhom04_Jewelry\Nhom04_Jewelry\obj\Debug\Nhom04_Jewelry.pdb
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\Newtonsoft.Json.Bson.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Buffers.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Memory.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Net.Http.Formatting.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Numerics.Vectors.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Threading.Tasks.Extensions.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Http.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Http.WebHost.dll
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\Newtonsoft.Json.Bson.pdb
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\Newtonsoft.Json.Bson.xml
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Buffers.xml
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Memory.xml
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Net.Http.Formatting.xml
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Numerics.Vectors.xml
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Threading.Tasks.Extensions.xml
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Http.xml
+C:\HUIT\HK7\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Http.WebHost.xml
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\Nhom04_Jewelry.dll.config
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\Nhom04_Jewelry.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\Nhom04_Jewelry.pdb
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\csc.exe
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\csc.exe.config
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\csc.rsp
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\csi.exe
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\csi.exe.config
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\csi.rsp
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\Microsoft.Managed.Core.targets
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.AppContext.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Collections.Immutable.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Console.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Globalization.Calendars.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.IO.Compression.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.IO.FileSystem.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Net.Http.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Net.Sockets.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Reflection.Metadata.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.ValueTuple.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Xml.XmlDocument.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Xml.XPath.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\vbc.exe
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\vbc.exe.config
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\vbc.rsp
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\VBCSCompiler.exe
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\VBCSCompiler.exe.config
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\EntityFramework.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\EntityFramework.SqlServer.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.AspNet.Identity.Core.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.Owin.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.Owin.Security.Cookies.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.Owin.Security.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.Owin.Security.OAuth.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.Web.Infrastructure.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\Newtonsoft.Json.Bson.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\Newtonsoft.Json.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\Owin.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Buffers.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Memory.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Net.Http.Formatting.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Numerics.Vectors.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Threading.Tasks.Extensions.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Helpers.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Http.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Http.WebHost.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Mvc.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Razor.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Webpages.Deployment.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Webpages.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Webpages.Razor.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\EntityFramework.xml
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\EntityFramework.SqlServer.xml
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.AspNet.Identity.Core.xml
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.Owin.xml
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.Owin.Security.xml
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.Owin.Security.Cookies.xml
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.Owin.Security.OAuth.xml
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\Newtonsoft.Json.xml
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\Newtonsoft.Json.Bson.pdb
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\Newtonsoft.Json.Bson.xml
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Buffers.xml
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Memory.xml
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Net.Http.Formatting.xml
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Numerics.Vectors.xml
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Threading.Tasks.Extensions.xml
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Http.xml
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Http.WebHost.xml
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Razor.xml
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Webpages.xml
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Webpages.Deployment.xml
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Webpages.Razor.xml
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Helpers.xml
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Mvc.xml
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\obj\Debug\Nhom04_Jewelry.csproj.AssemblyReference.cache
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\obj\Debug\Nhom04_Jewelry.IdentityMigration.init.resources
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\obj\Debug\Nhom04_Jewelry.IdentityMigration.AddHoTenRow.resources
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\obj\Debug\Nhom04_Jewelry.Migrations.InitialCreate.resources
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\obj\Debug\Nhom04_Jewelry.Migrations.AddRequired.resources
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\obj\Debug\Nhom04_Jewelry.csproj.GenerateResource.cache
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\obj\Debug\Nhom04_Jewelry.csproj.CoreCompileInputs.cache
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\obj\Debug\Nhom04_Jewelry.csproj.CopyComplete
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\obj\Debug\Nhom04_Jewelry.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\Nhom04_Jewelry\Nhom04_Jewelry\obj\Debug\Nhom04_Jewelry.pdb
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\Nhom04_Jewelry.dll.config
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\Nhom04_Jewelry.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\Nhom04_Jewelry.pdb
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\csc.exe
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\csc.exe.config
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\csc.rsp
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\csi.exe
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\csi.exe.config
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\csi.rsp
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\Microsoft.Managed.Core.targets
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.AppContext.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Collections.Immutable.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Console.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Globalization.Calendars.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.IO.Compression.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.IO.FileSystem.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Net.Http.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Net.Sockets.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Reflection.Metadata.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.ValueTuple.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Xml.XmlDocument.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Xml.XPath.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\vbc.exe
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\vbc.exe.config
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\vbc.rsp
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\VBCSCompiler.exe
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\VBCSCompiler.exe.config
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\EntityFramework.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\EntityFramework.SqlServer.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.AspNet.Identity.Core.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.Owin.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.Owin.Security.Cookies.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.Owin.Security.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.Owin.Security.OAuth.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.Web.Infrastructure.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\Newtonsoft.Json.Bson.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\Newtonsoft.Json.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\Owin.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Buffers.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Memory.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Net.Http.Formatting.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Numerics.Vectors.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Threading.Tasks.Extensions.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Helpers.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Http.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Http.WebHost.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Mvc.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Razor.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Webpages.Deployment.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Webpages.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Webpages.Razor.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\EntityFramework.xml
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\EntityFramework.SqlServer.xml
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.AspNet.Identity.Core.xml
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.Owin.xml
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.Owin.Security.xml
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.Owin.Security.Cookies.xml
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.Owin.Security.OAuth.xml
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\Newtonsoft.Json.xml
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\Newtonsoft.Json.Bson.pdb
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\Newtonsoft.Json.Bson.xml
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Buffers.xml
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Memory.xml
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Net.Http.Formatting.xml
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Numerics.Vectors.xml
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Threading.Tasks.Extensions.xml
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Http.xml
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Http.WebHost.xml
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Razor.xml
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Webpages.xml
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Webpages.Deployment.xml
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Webpages.Razor.xml
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Helpers.xml
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Mvc.xml
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\obj\Debug\Nhom04_Jewelry.csproj.AssemblyReference.cache
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\obj\Debug\Nhom04_Jewelry.IdentityMigration.init.resources
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\obj\Debug\Nhom04_Jewelry.IdentityMigration.AddHoTenRow.resources
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\obj\Debug\Nhom04_Jewelry.Migrations.InitialCreate.resources
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\obj\Debug\Nhom04_Jewelry.Migrations.AddRequired.resources
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\obj\Debug\Nhom04_Jewelry.csproj.GenerateResource.cache
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\obj\Debug\Nhom04_Jewelry.csproj.CoreCompileInputs.cache
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\obj\Debug\Nhom04_Jewelry.csproj.CopyComplete
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\obj\Debug\Nhom04_Jewelry.dll
+C:\HUIT\HK7\LapTrinhWeb\New folder\New folder\Nhom04_Jewelry\Nhom04_Jewelry\obj\Debug\Nhom04_Jewelry.pdb
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\Nhom04_Jewelry.dll.config
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\Nhom04_Jewelry.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\Nhom04_Jewelry.pdb
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\csc.exe
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\csc.exe.config
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\csc.rsp
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\csi.exe
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\csi.exe.config
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\csi.rsp
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\Microsoft.Managed.Core.targets
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.AppContext.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Collections.Immutable.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Console.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Globalization.Calendars.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.IO.Compression.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.IO.FileSystem.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Net.Http.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Net.Sockets.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Reflection.Metadata.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.ValueTuple.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Xml.XmlDocument.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Xml.XPath.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\vbc.exe
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\vbc.exe.config
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\vbc.rsp
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\VBCSCompiler.exe
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\roslyn\VBCSCompiler.exe.config
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\EntityFramework.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\EntityFramework.SqlServer.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.AspNet.Identity.Core.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.Owin.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.Owin.Security.Cookies.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.Owin.Security.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.Owin.Security.OAuth.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.Web.Infrastructure.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\Newtonsoft.Json.Bson.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\Newtonsoft.Json.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\Owin.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Buffers.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Memory.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Net.Http.Formatting.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Numerics.Vectors.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Threading.Tasks.Extensions.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Helpers.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Http.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Http.WebHost.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Mvc.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Razor.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Webpages.Deployment.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Webpages.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Webpages.Razor.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\EntityFramework.xml
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\EntityFramework.SqlServer.xml
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.AspNet.Identity.Core.xml
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.Owin.xml
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.Owin.Security.xml
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.Owin.Security.Cookies.xml
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.Owin.Security.OAuth.xml
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\Newtonsoft.Json.xml
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\Newtonsoft.Json.Bson.pdb
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\Newtonsoft.Json.Bson.xml
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Buffers.xml
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Memory.xml
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Net.Http.Formatting.xml
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Numerics.Vectors.xml
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Threading.Tasks.Extensions.xml
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Http.xml
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Http.WebHost.xml
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Razor.xml
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Webpages.xml
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Webpages.Deployment.xml
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Webpages.Razor.xml
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Helpers.xml
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\System.Web.Mvc.xml
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\obj\Debug\Nhom04_Jewelry.csproj.AssemblyReference.cache
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\obj\Debug\Nhom04_Jewelry.IdentityMigration.init.resources
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\obj\Debug\Nhom04_Jewelry.IdentityMigration.AddHoTenRow.resources
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\obj\Debug\Nhom04_Jewelry.Migrations.InitialCreate.resources
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\obj\Debug\Nhom04_Jewelry.Migrations.AddRequired.resources
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\obj\Debug\Nhom04_Jewelry.csproj.GenerateResource.cache
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\obj\Debug\Nhom04_Jewelry.csproj.CoreCompileInputs.cache
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\obj\Debug\Nhom04_Jewelry.csproj.CopyComplete
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\obj\Debug\Nhom04_Jewelry.dll
+D:\FILE SV\LapTrinhWeb\Nhom04_Jewelry\Nhom04_Jewelry\obj\Debug\Nhom04_Jewelry.pdb

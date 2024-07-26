@@ -1,0 +1,39 @@
+﻿@model List<Nhom04_Jewelry.Models.Product>
+@{
+    ViewBag.Title = "Carts";
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+
+<table class="table">
+    <tr>
+        <th>
+            Tên sản phẩm
+        </th>
+        <th>
+            Giá tiền
+        </th>
+        <th>
+            Số lượng
+        </th>
+        <th>
+            Mô tả
+        </th>
+        <th>
+            Thẻ sim
+        </th>
+        <th>
+            Ảnh bìa
+        </th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td><a href="/home/detail/@item.Masp">@item.Tensp</a></td>
+            <td>@item.Giatien VND</td>
+            <td>@item.Soluong</td>
+            <td>@item.Mota</td>
+            <td>@item.Thesim</td>
+            <td><img src="/img/@item.Anhbia" style="width:50px" /></td>
+        </tr>
+    }
+</table>
